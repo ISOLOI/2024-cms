@@ -1,7 +1,7 @@
 :root {
-	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
+	--primary: mistyrose;
+	--secondary: rgb(181, 145, 145);
+	--background: #312b29;
 }
 
 *, *:before, *:after {
@@ -81,10 +81,11 @@ pre {
 /* Header Logo (style as h2) */
 header > em {
 	display: block;
-	font-size: 2em;
+	font-size: 2rem;
 	margin: .67em 0;
 	font-weight: bold;
 	font-style: normal;
+	color: mistyrose;
 }
 
 /* Header Nav */
@@ -100,9 +101,11 @@ header nav ul :first-child {
 header nav li {
 	display: inline-block;
 	margin: 0 .25em;
+
 }
 
 header nav li a {
+	color: red;
 	padding: .25em .5em;
 	border-radius: .25em;
 }
@@ -112,7 +115,7 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: white;
+	background-color: rgb(69, 31, 31);
 }
 
 /* Posts List */
