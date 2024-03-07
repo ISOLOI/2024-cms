@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+# Lets begin
 
-[Log in to the Decap CMS dashboard](/admin/)
+- Too much time has passed since the last blog. I am going to try and be geared towards topics I personally find interesting. Let's see if I commit.
 
