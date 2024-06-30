@@ -9,5 +9,9 @@ eleventyNavigation:
 ---
 # Lets begin
 
-- Too much time has passed since the last blog. I am going to try and be geared towards topics I personally find interesting. Let's see if I commit.
+I never obtained any CS degree, or college degree, at all. All 8 years have been on-the-job, working with projects that use NodeJS/JS almost exclusively. I want to work with people smarter than me.
+What is my profession? Javascript. I work with Javascript to build applications for the front and backend. I'm self-taught. This means I didn't have many mentors. By the time I started worming professionally, I was being looked at for solutions. This was a bad idea. Later on as I started building up courage to ask more and more questions, it would feel as if I was inexperienced. What a crazy world.
 
+I will be answering a lot of questions I've had throughout my career that I should have asked early on. Hopefully I keep this up to date and just maybe it will help someone else.
+
+I have A.D.D. I'm introvert. I tell noone. It ruins interviewing. I have had success, obviously. But it's also gotten in the way.
