@@ -1,0 +1,20 @@
+{
+  "name": "2024-cms",
+  "version": "1.0.0",
+  "description": "Minimal Site to display posts I've created over multiple website blog iterations.",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "watch": "npx @11ty/eleventy --watch",
+    "serve": "npx @11ty/eleventy --serve",
+    "debug": "DEBUG=* npx @11ty/eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "clean-css": "^5.3.2",
+    "html-minifier": "^4.0.0",
+    "luxon": "^3.4.3",
+    "markdown-it-anchor": "^8.6.7",
+    "uglify-js": "^3.17.4"
+  }
+}
